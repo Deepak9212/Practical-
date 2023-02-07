@@ -4,7 +4,7 @@ public class Parameterizedcons {
 int age;
 String name;
 //parameterized cons where we have to pass the parameter / arguments
-Parameterizedcons(String n){
+Parameterizedcons(int a,String n){
 	age=a;
 	name=n;
 }
